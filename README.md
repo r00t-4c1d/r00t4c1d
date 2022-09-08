@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://?ref=github)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/r00t_4c1d)
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/r00t4c1d)
+[![](https://img.shields.io/badge/-Instagram-FFF?&logo=Instagram)](https://www.instagram.com/rishi_rootec/)
 
 ### Languages
 
