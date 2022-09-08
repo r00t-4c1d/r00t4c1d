@@ -11,5 +11,5 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
 [![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-000?&logo=linux)]
 
-![Visitor Count](https : //profile-counter.glitch.me/r00t-4c1d/count.svg)
+[![Visitor Count](https : //profile-counter.glitch.me/r00t-4c1d/count.svg)]
 
