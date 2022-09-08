@@ -9,7 +9,7 @@ I'm Rishi, a Cyber Security Enthusiast **self-taughted** Cybersec Student Red Te
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
-[![Shell Scripting](https://img.shields.io/badge/-Shell Scripting-000?&logo=linux)]
+[![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-000?&logo=linux)]
 
 ### Technologies
 
