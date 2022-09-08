@@ -10,3 +10,5 @@ I'm Rishi, a Cyber Security Enthusiast **self-taughted** Cybersec Student Red Te
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
 [![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-000?&logo=linux)]
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
