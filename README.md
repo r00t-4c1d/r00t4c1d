@@ -11,7 +11,7 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
 [![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-000?&logo=linux)]
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=r00t4c1d&limit=3&bg=222f2e&text=ff0000)](https://medium.com/@r00t4c1d)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=r00t4c1d&limit=3)](https://medium.com/@r00t4c1d)
 
 ![Visitor Count](https://profile-counter.glitch.me/r00t-4c1d/count.svg)
 
