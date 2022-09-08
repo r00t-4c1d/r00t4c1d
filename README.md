@@ -16,6 +16,8 @@
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=r00t4c1d&limit=3&bg=blacktext=green)](https://medium.com/@r00t4c1d)
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/r00t-4c1d/count.svg)
-
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a <a href="mailto:rishi_me@protonmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/rishi__me@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
