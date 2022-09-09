@@ -7,11 +7,6 @@
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/r00t4c1d)
 [![](https://img.shields.io/badge/-Instagram-FFF?&logo=Instagram)](https://www.instagram.com/rishi_rootec/)
 
-### Languages
-
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
-[![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-000?&logo=linux)]
-
 ### Recent Posted Writeups
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=r00t4c1d&limit=3&bg=blacktext=green)](https://medium.com/@r00t4c1d)
 
