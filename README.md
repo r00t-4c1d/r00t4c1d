@@ -7,10 +7,6 @@
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/r00t4c1d)
 [![](https://img.shields.io/badge/-Instagram-FFF?&logo=Instagram)](https://www.instagram.com/rishi_rootec/)
 
-### Recent Posted Writeups
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=r00t4c1d&limit=3&bg=blacktext=green)](https://medium.com/@r00t4c1d)
-
-
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
