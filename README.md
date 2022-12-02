@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&pause=900&color=18F700&center=true&width=435&lines=I'm+Rishi;Cyber+Security+Enthusiast;Self-Taught+Cybersec+Student;Red+Teamer)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://?ref=github)
+[![](https://img.shields.io/badge/-%20Website-FFF)](https://?ref=github)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/r00t_4c1d)
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/r00t4c1d)
 [![](https://img.shields.io/badge/-Instagram-FFF?&logo=Instagram)](https://www.instagram.com/rishi_rootec/)
